@@ -62,14 +62,14 @@ export const FOOTER_LINKS = [
     },
     {
         title: 'Our Community',
-        links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+        links: ['Climbing Mount Everest', 'Hiking GadaiKall', 'Trekking RaniJhari'],
     },
 ];
 
 export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-        { label: 'Admin Officer', value: '123-456-7890' },
+        { label: 'Admin Officer', value: '9876543210' },
         { label: 'Email Officer', value: 'hilink@akinthil.com' },
     ],
 };
